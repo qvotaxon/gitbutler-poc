@@ -1,1 +1,1 @@
-ik heb een bug gevonden
+Ik heb een bug gevonden
